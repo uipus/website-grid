@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(47, 40, 40);
+}
+.stan{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.dan{
+    display: flex;
+    
+    
+}
+.san{
+    padding: 30px;
+ font-weight: 600;
+ font-size: larger;
+ color: azure;
+ list-style: none;
+ 
+}
+.das{
+    padding: 20px 10px;
+    transition: 3sec all  ease;
+    border-radius: 5px;
+    background-color: brown;
+    cursor:unset;
+    font-weight: 600;
+}
+.baya{
+    background-color: rgb(56, 54, 54);
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.baya h1{
+    color: bisque;
+    text-align: center;
+    padding: 0px px;
+}
+.icon{
+    width: 10px;
+    height: 10px;;
+}
+.can{
+    width: 1330px;
+    height: 200px;
+    background-color: black;
+    margin-top: 17px;
+    border-radius: 5px;
+    margin-left: 3px;
+
+}
+.
